@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "838986336844",
+    "project_id": "whatsapp--backend-bea1c",
+    "storage_bucket": "whatsapp--backend-bea1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838986336844:android:15bb7a536bc949c93282e9",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_crone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838986336844-a3s155g0egc0hkkqs5ub662ab4ovvbf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy48sLGMH-Fo-tFhDuwHTuHkUU3nAckpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838986336844-a3s155g0egc0hkkqs5ub662ab4ovvbf3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838986336844-i37n1ljqjsnj414ietlefdkf6t82vtbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatsappCrone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
